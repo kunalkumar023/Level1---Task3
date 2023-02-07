@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(77, 101, 128);
+}
+
+.main{
+    margin: 200px 500px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 350px;
+    height: 250px;
+}
+.main label{
+    padding: 15px;
+}
+.main input{
+    margin: 5px;
+}
+.main h3{
+    margin-left: 20px;
+}
+.main button{
+    margin-top: 15px;
+    margin-left: 120px;
+}
+.main p{
+    margin-top: -38px;
+    margin-left: 100px;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 150px;
+    height: 18px;
+}
